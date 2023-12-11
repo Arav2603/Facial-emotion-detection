@@ -4,11 +4,13 @@ This project utilizes computer vision and deep learning techniques to perform fa
 Overview
 The code included in this repository consists of Python scripts that perform the following tasks:
 
-Model Loading: Loads a pre-trained deep learning model (best_model.h5) for facial emotion recognition.
-Real-time Analysis: Utilizes OpenCV to access the webcam, detect faces, and predict emotions in real-time.
+Model Loading: 
+Loads a pre-trained deep learning model (best_model.h5) for facial emotion recognition.
+Real-time Analysis:
+Utilizes OpenCV to access the webcam, detect faces, and predict emotions in real-time.
 User Interaction: Displays the live video feed with emotion predictions overlaid on detected faces.
 Requirements
-Python 3.x
+Python 3.8
 OpenCV
 Keras with TensorFlow backend
 Usage
